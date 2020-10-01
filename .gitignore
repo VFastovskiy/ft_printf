@@ -1,0 +1,33 @@
+# Compiled Object files
+*.o
+output
+/objects
+ft_printf
+
+# Precompiled Headers
+*.gch
+
+# Compiled Static libraries
+*.a
+
+# Main
+a.out
+
+# DS_Store
+.DS_Store
+
+# valgrind dir
+/a.out.dSYM
+/output.dSYM
+/ft_printf.dSYM
+
+# tests for ft_printf
+/ptf_new
+/pft
+
+# debug
+/.vscode
+
+# tests
+test.cpft/
+pft_2019/
